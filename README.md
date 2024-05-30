@@ -50,11 +50,13 @@
 <hr/>
     
   <br/>
-    <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=milind-palaria&" alt="Milind-Palaria" />
+    <!-- <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=milind-palaria&" alt="Milind-Palaria" /> -->
+    
+    
+[![GitHub Streak](https://streak-stats.demolab.com?user=Milind-Palaria&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+
   <br/>
     
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Milind-Palaria/Milind-Palaria/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
@@ -67,7 +69,7 @@
     
 [![An image of @milindpalaria's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milindpalaria)](https://holopin.io/@milindpalaria)
 
-<img  align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-palaria&show_icons=true&locale=en" alt="Milind-Palaria" />
+<img  align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-palaria&show_icons=true&locale=en&layout=donut-vertical&theme=dark&hide_border=true" alt="Milind-Palaria" />
 
 <!--  <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=milind-palaria&show_icons=true&locale=en" alt="Milind-Palaria" />
     <br/>
@@ -79,6 +81,9 @@
 </div>
 
 <br/><br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Milind-Palaria&repo=Spice-Caves&theme=dark&show_icons=true&hide_border=true)](https://github.com/Milind-Palaria/Spice-Caves)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Milind-Palaria&repo=kir.ai&theme=dark&show_icons=true&hide_border=true)](https://github.com/Milind-Palaria/kir.ai)
+
 
 <hr/>
 
