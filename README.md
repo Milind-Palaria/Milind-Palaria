@@ -3,15 +3,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=SansSerif&size=45&center=true&vCenter=true&width=700&height=90&duration=4000&lines=Hey+There!+👋;+I'm+Milind!;+Milind+Palaria;" />
 </h1>
 
-<h3 align="center">A MERN stack developer from Lucknow, India</h3>
+<hr/>
+    <img src="https://i.postimg.cc/pLCR6W3w/standard-7.gif" alt="2825944"  width="1250" height="50">
 
-<br/>
+<hr/>
 
 <div align="center">
+
  
  🔭 I’m currently studying at **Indian Institute of Information Technology, Lucknow**
  
- 🌱 I’m currently learning **Three.JS, GSAP, **
+ 🌱 I’m currently learning **Three.JS & GSAP**
 
 💬 Ask me about **React, Node, Express... or anything [here](https://github.com/Milind-Palaria/Milind-Palaria/issues)**
 
@@ -63,10 +65,9 @@
 <br>
 <div align=center>
     
+[![An image of @milindpalaria's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milindpalaria)](https://holopin.io/@milindpalaria)
 
 <img  align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-palaria&show_icons=true&locale=en" alt="Milind-Palaria" />
-
-[![An image of @milindpalaria's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milindpalaria)](https://holopin.io/@milindpalaria)
 
 <!--  <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=milind-palaria&show_icons=true&locale=en" alt="Milind-Palaria" />
     <br/>
