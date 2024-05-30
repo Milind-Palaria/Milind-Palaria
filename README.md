@@ -28,8 +28,11 @@
 </div>
 
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+    <img src="https://i.postimg.cc/NMkwk549/standard-1.gif" alt="2825944"  width="1250" height="50">
+<!--     <img src="https://i.postimg.cc/VLPBrgZk/standard-3.gif" alt="2825944"  width="1250" height="50"> -->
+    
+ <hr/>
+
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
@@ -40,22 +43,38 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+<!--   <h2>🐍 My Contributions 🐍</h2> -->
+    <img src="https://i.postimg.cc/G36VZ3s4/standard.gif" alt="2825944"  width="1250" height="50">
+<hr/>
+    
+  <br/>
+    <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=milind-palaria&" alt="Milind-Palaria" />
+  <br/>
+    
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Milind-Palaria/Milind-Palaria/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
 <hr/>
+    <img src="https://i.postimg.cc/zG7Tb14J/standard-5.gif" alt="2825944"  width="1250" height="50">
+<hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Milind-Palaria&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Milind-Palaria&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    
+
+<img  align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-palaria&show_icons=true&locale=en" alt="Milind-Palaria" />
+
+[![An image of @milindpalaria's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milindpalaria)](https://holopin.io/@milindpalaria)
+
+<!--  <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=milind-palaria&show_icons=true&locale=en" alt="Milind-Palaria" />
+    <br/>
+ <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Milind-Palaria&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Milind-Palaria&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Milind-Palaria&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Miilind-Palaria.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
 </div>
 
 <br/><br/>
