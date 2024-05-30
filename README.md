@@ -1,6 +1,15 @@
 <img src="https://i.postimg.cc/Sxt4Mx8G/2825826.gif" alt="2825944"  width="1250" height="350">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=SansSerif&size=45&center=true&vCenter=true&width=700&height=90&duration=4000&lines=Hey+There!+👋;+I'm+Milind!;+Milind+Palaria;" />
+<!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Oswald&size=45&center=true&vCenter=true&width=700&height=90&duration=4000&color=E00EF7&lines=Hey+There!+👋;+I'm+Milind!;+Milind+Palaria;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&duration=3000&color=E00EF7&center=true&vCenter=true&multiline=true&random=false&width=435&height=200&lines=Hey+There..!!!;I+am+Milind+Palaria" alt="Typing SVG" /></a> -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&duration=3000&pause=500&color=E00EF7&center=true&vCenter=true&random=false&width=435&height=40&lines=Hello+Folks;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A6%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%82;Hola+amigos;%E0%B2%A8%E0%B2%AE%E0%B2%B8%E0%B3%8D%E0%B2%95%E0%B2%BE%E0%B2%B0+%E0%B2%9C%E0%B2%A8%E0%B2%B0%E0%B3%86;%DB%81Bonjour+les+gens;%E0%B4%B9%E0%B4%B2%E0%B5%8B+%E0%B4%AB%E0%B5%8B%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D%E0%B4%B8%E0%B5%8D;%DB%8C%D9%84%D9%88+%D9%84%D9%88%DA%AF%D9%88;%E0%AE%B5%E0%AE%A3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D+%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%87" alt="Typing SVG" /></a>
+<br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=45&duration=5000&pause=2000&color=E00EF7&center=true&vCenter=true&random=false&repeat=false&width=435&height=80&lines=I'm+Milind+Palaria" alt="Typing SVG" /></a>
+<br/>
+    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&duration=3000&pause=500&color=E00EF7&center=true&vCenter=true&repeat=false&random=false&width=435&height=40&lines=Scroll+to+know+more" alt="Typing SVG" /></a>
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&duration=2000&pause=500&color=E00EF7&center=true&vCenter=true&random=false&width=435&height=40&lines=%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87" alt="Typing SVG" /></a>
 </h1>
 
 <hr/>
@@ -49,12 +58,26 @@
     <img src="https://i.postimg.cc/G36VZ3s4/standard.gif" alt="2825944"  width="1250" height="50">
 <hr/>
     
-  <br/>
-    <!-- <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=milind-palaria&" alt="Milind-Palaria" /> -->
+<!-- <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=milind-palaria&" alt="Milind-Palaria" /> -->
     
     
 [![GitHub Streak](https://streak-stats.demolab.com?user=Milind-Palaria&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
-
+  
+ <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Milind-Palaria/Milind-Palaria/output/github-contribution-grid-snake.svg" />-->
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Milind-Palaria/Milind-Palaria/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Milind-Palaria/Milind-Palaria/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/Milind-Palaria/Milind-Palaria/github-contribution-grid-snake.svg"
+  />
+ </picture>
   <br/>
     
   <br/><br/><br/>
