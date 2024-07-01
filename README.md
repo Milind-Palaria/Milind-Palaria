@@ -93,8 +93,11 @@
 [![An image of @milindpalaria's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milindpalaria)](https://holopin.io/@milindpalaria)
 
 <img  align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-palaria&show_icons=true&locale=en&layout=donut-vertical&theme=dark&hide_border=true" alt="Milind-Palaria" />
+<!--  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Milind-Palaria&label=Profile%20views&color=0e75b6&style=flat" alt="milind-palaria" />
+</p>
 
-<!--  <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=milind-palaria&show_icons=true&locale=en" alt="Milind-Palaria" />
+<img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=milind-palaria&show_icons=true&locale=en" alt="Milind-Palaria" />
     <br/>
  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Milind-Palaria&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Milind-Palaria&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
