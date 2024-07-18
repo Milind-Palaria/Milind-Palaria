@@ -24,7 +24,7 @@
  
  🌱 I’m currently learning **Three.JS, GSAP & Sentry**
  
- ⚒ I’m currently working on **Kir.AI & Catherine de Sienne**
+ ⚒ I’m currently working on **[Kir.AI](https://github.com/Milind-Palaria/kir.ai) & [Catherine de Sienne](https://github.com/Milind-Palaria/catherine-de-sienne)**
 
 💬 Ask me about **React, Node, Express... or anything [here](https://github.com/Milind-Palaria/Milind-Palaria/issues)**
 
