@@ -23,6 +23,8 @@
  🔭 I’m currently studying at **Indian Institute of Information Technology, Lucknow**
  
  🌱 I’m currently learning **Three.JS, GSAP & Sentry**
+ 
+ ⚒ I’m currently working on **Kir.AI & Catherine de Sienne**
 
 💬 Ask me about **React, Node, Express... or anything [here](https://github.com/Milind-Palaria/Milind-Palaria/issues)**
 
