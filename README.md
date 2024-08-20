@@ -92,7 +92,6 @@
 <br>
 <div align=center>
     
-[![An image of @milindpalaria's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milindpalaria)](https://holopin.io/@milindpalaria)
 
 <img  align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-palaria&show_icons=true&locale=en&layout=donut-vertical&theme=dark&hide_border=true" alt="Milind-Palaria" />
 <!--  <p align="center">
@@ -117,6 +116,8 @@
 
 <br/>
 
+[![An image of @milindpalaria's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milindpalaria)](https://holopin.io/@milindpalaria)
 
+<hr/>
 
 <br/>
