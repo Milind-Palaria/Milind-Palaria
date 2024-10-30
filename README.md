@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/Sxt4Mx8G/2825826.gif" alt="2825944"  width="1250" height="350">
+<img src="assets/Banner.gif" alt="2825944"  width="1250" height="350">
 <h1 align="center">
 <!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Oswald&size=45&center=true&vCenter=true&width=700&height=90&duration=4000&color=E00EF7&lines=Hey+There!+👋;+I'm+Milind!;+Milind+Palaria;" />
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&duration=3000&color=E00EF7&center=true&vCenter=true&multiline=true&random=false&width=435&height=200&lines=Hey+There..!!!;I+am+Milind+Palaria" alt="Typing SVG" /></a> -->
@@ -13,7 +13,7 @@
 </h1>
 
 <hr/>
-    <img src="https://i.postimg.cc/pLCR6W3w/standard-7.gif" alt="2825944"  width="1250" height="50">
+    <img src="assets/MernDev.gif" alt="2825944"  width="1250" height="50">
 
 <hr/>
 
@@ -41,7 +41,7 @@
 </div>
 
  <hr/>
-    <img src="https://i.postimg.cc/NMkwk549/standard-1.gif" alt="2825944"  width="1250" height="50">
+    <img src="assets/Languages.gif" alt="2825944"  width="1250" height="50">
 <!--     <img src="https://i.postimg.cc/VLPBrgZk/standard-3.gif" alt="2825944"  width="1250" height="50"> -->
     
  <hr/>
@@ -57,7 +57,7 @@
 
 <div align="center">
 <!--   <h2>🐍 My Contributions 🐍</h2> -->
-    <img src="https://i.postimg.cc/G36VZ3s4/standard.gif" alt="2825944"  width="1250" height="50">
+    <img src="assets/contributions.gif" alt="2825944"  width="1250" height="50">
 <hr/>
     
 <!-- <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=milind-palaria&" alt="Milind-Palaria" /> -->
@@ -86,7 +86,7 @@
 </div>
 
 <hr/>
-    <img src="https://i.postimg.cc/zG7Tb14J/standard-5.gif" alt="2825944"  width="1250" height="50">
+    <img src="assets/Statistics.gif" alt="2825944"  width="1250" height="50">
 <hr/>
 
 <br>
