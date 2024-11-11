@@ -7,6 +7,24 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=45&duration=5000&pause=2000&color=E00EF7&center=true&vCenter=true&random=false&repeat=false&width=435&height=80&lines=I'm+Milind+Palaria" alt="Typing SVG" /></a>
 <!-- <br/> -->
     
+<div align="center"> 
+    
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milind.palaria) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milind-palaria) 
+</br>
+![](https://visitcount.itsvg.in/api?id=Milind-Palaria&icon=0&color=10)
+
+<!--     
+  <a href="mailto:palaria23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/milind-palaria" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>-->
+<!--   <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options
+  </a> -->
+</div>
 </div>
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&duration=3000&pause=500&color=E00EF7&center=true&vCenter=true&repeat=false&random=false&width=435&height=40&lines=Scroll+to+know+more" alt="Typing SVG" /></a>
 <br/>
@@ -27,25 +45,13 @@
 <div align="center">
 
  
- 🔭 I’m currently studying at **Indian Institute of Information Technology, Lucknow**
+ <h2>Currently studying at Indian Institute of Information Technology, Lucknow</h2>
+<!--  
+ <h2>Currently learning Three.JS, GSAP & Sentry</h2>-->
  
- 🌱 I’m currently learning **Three.JS, GSAP & Sentry**
- 
- ⚒ I’m currently working on **[Kir.AI](https://github.com/Milind-Palaria/kir.ai) & [Catherine de Sienne](https://github.com/Milind-Palaria/catherine-de-sienne)**
+<!--   ⚒ I’m currently working on **[Kir.AI](https://github.com/Milind-Palaria/kir.ai) & [Catherine de Sienne](https://github.com/Milind-Palaria/catherine-de-sienne)**
+💬 Ask me about **React, Node, Express... or anything [here](https://github.com/Milind-Palaria/Milind-Palaria/issues)** -->
 
-💬 Ask me about **React, Node, Express... or anything [here](https://github.com/Milind-Palaria/Milind-Palaria/issues)**
-
-<div align="center"> 
-  <a href="mailto:palaria23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/milind-palaria" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-<!--   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options
-  </a> -->
-</div>
 
  <hr/>
     <img src="assets/Languages.gif" alt="2825944"  width="1250" height="50">
@@ -159,11 +165,13 @@
   <br/>
 
 </div>
+<hr/>
 
 <br/><br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Milind-Palaria&repo=Spice-Caves&theme=dark&show_icons=true&hide_border=true)](https://github.com/Milind-Palaria/Spice-Caves)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Milind-Palaria&repo=kir.ai&theme=dark&show_icons=true&hide_border=true)](https://github.com/Milind-Palaria/kir.ai)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Milind-Palaria&repo=catherine-de-sienne&theme=dark&show_icons=true&hide_border=true)](https://github.com/Milind-Palaria/catherine-de-sienne)
+<hr/>
 
 <p align="center">
   
@@ -171,6 +179,7 @@
 </p>
 <hr/>
 <br/>
+
 
 [![An image of @milindpalaria's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milindpalaria)](https://holopin.io/@milindpalaria)
 
@@ -181,6 +190,5 @@
 
 <hr/>
 
-![](https://visitcount.itsvg.in/api?id=Milind-Palaria&icon=0&color=10)
 
 <br/>
