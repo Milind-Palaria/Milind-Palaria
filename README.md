@@ -141,18 +141,24 @@
   />
  </picture>
   <br/>
+    <br/><br/>
     
-  <br/><br/><br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Milind-Palaria&repo=Spice-Caves&theme=dark&show_icons=true&hide_border=true)](https://github.com/Milind-Palaria/Spice-Caves)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Milind-Palaria&repo=kir.ai&theme=dark&show_icons=true&hide_border=true)](https://github.com/Milind-Palaria/kir.ai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Milind-Palaria&repo=catherine-de-sienne&theme=dark&show_icons=true&hide_border=true)](https://github.com/Milind-Palaria/catherine-de-sienne)
 </div>
 
 <hr/>
     <img src="assets/Statistics.gif" alt="2825944"  width="1250" height="50">
 <hr/>
 
+![Milind's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Milind-Palaria&theme=tokyo-night)
 <br>
 <div align=center>
     
 
+<hr/>
+  <br/><br/><br/>
 <img  align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-palaria&show_icons=true&locale=en&layout=donut-vertical&theme=dark&hide_border=true" alt="Milind-Palaria" />
 <!--  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Milind-Palaria&label=Profile%20views&color=0e75b6&style=flat" alt="milind-palaria" />
@@ -168,11 +174,7 @@
 </div>
 <hr/>
 
-<br/><br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Milind-Palaria&repo=Spice-Caves&theme=dark&show_icons=true&hide_border=true)](https://github.com/Milind-Palaria/Spice-Caves)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Milind-Palaria&repo=kir.ai&theme=dark&show_icons=true&hide_border=true)](https://github.com/Milind-Palaria/kir.ai)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Milind-Palaria&repo=catherine-de-sienne&theme=dark&show_icons=true&hide_border=true)](https://github.com/Milind-Palaria/catherine-de-sienne)
-<hr/>
+
 
 <p align="center">
   
@@ -191,5 +193,7 @@
 
 <hr/>
 
-
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=ov57af26alaghjax0fjwtdl87&custom_title=Milind%20Palaria's%20Spotify&limit=3&show_border=1">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ov57af26alaghjax0fjwtdl87&custom_title=Milind%20Palaria's%20Spotify&limit=3&show_border=1" alt="Data Card for Spotify">
+</a>
 <br/>
