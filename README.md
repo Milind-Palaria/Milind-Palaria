@@ -39,7 +39,9 @@
           <a href="https://leetcode.com/Milind-Palaria/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/Milind-Palaria/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="jyot" height="200" width="200" /></a>
 <!--   <a href="https://leetcode.com/Milind-Palaria/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a> -->
-      <a href="https://leetcode.com/Milind-Palaria/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" alt="jyot" height="200" width="200" /></a>
+<!--       <a href="https://leetcode.com/Milind-Palaria/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" alt="jyot" height="200" width="200" /></a> -->
+        <a href="https://leetcode.com/Milind-Palaria/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="200" width="200" /></a>
+<!--     https://leetcode.com/static/images/badges/2024/gif/2024-12.gif -->
 <!--   <a href="https://leetcode.com/Milind-Palaria/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a> -->
 </p>
 
