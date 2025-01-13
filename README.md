@@ -125,6 +125,7 @@
     
 <!-- <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=milind-palaria&" alt="Milind-Palaria" /> -->
     
+
     
 [![GitHub Streak](https://streak-stats.demolab.com?user=Milind-Palaria&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
   
@@ -163,10 +164,10 @@
 <hr/>
   <br/><br/><br/>
 <img  align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-palaria&show_icons=true&locale=en&layout=donut-vertical&theme=dark&hide_border=true" alt="Milind-Palaria" />
-<!--  <p align="center">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=Milind-Palaria&label=Profile%20views&color=0e75b6&style=flat" alt="milind-palaria" />
 </p>
-
+<!--  
 <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=milind-palaria&show_icons=true&locale=en" alt="Milind-Palaria" />
     <br/>
  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Milind-Palaria&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -191,12 +192,11 @@
 
 <hr/>
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<!--  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
 
 
-<hr/>
-
+<!--  
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=ov57af26alaghjax0fjwtdl87&custom_title=Milind%20Palaria's%20Spotify&limit=3&show_border=1">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ov57af26alaghjax0fjwtdl87&custom_title=Milind%20Palaria's%20Spotify&limit=3&show_border=1" alt="Data Card for Spotify">
-</a>
+</a> -->
 <br/>
