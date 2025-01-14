@@ -5,9 +5,11 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&duration=3000&pause=500&color=E00EF7&center=true&vCenter=true&random=false&width=435&height=40&lines=Hello+Folks;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A6%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%82;Hola+amigos;%E0%B2%A8%E0%B2%AE%E0%B2%B8%E0%B3%8D%E0%B2%95%E0%B2%BE%E0%B2%B0+%E0%B2%9C%E0%B2%A8%E0%B2%B0%E0%B3%86;%DB%81Bonjour+les+gens;%E0%B4%B9%E0%B4%B2%E0%B5%8B+%E0%B4%AB%E0%B5%8B%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D%E0%B4%B8%E0%B5%8D;%DB%8C%D9%84%D9%88+%D9%84%D9%88%DA%AF%D9%88;%E0%AE%B5%E0%AE%A3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D+%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%87" alt="Typing SVG" /></a>
 <br/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=45&duration=5000&pause=2000&color=E00EF7&center=true&vCenter=true&random=false&repeat=false&width=435&height=80&lines=I'm+Milind+Palaria" alt="Typing SVG" /></a>
-<!-- <br/> -->
+<h1>Software Engineer at <a href="https://neuralixai.in" target="_blank">Neuralix.ai</a></h1>
+    <!-- <br/> -->
     
 <div align="center"> 
+
     
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milind.palaria) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milind-palaria) 
