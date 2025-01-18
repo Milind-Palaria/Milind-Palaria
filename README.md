@@ -7,7 +7,12 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=45&duration=5000&pause=2000&color=E00EF7&center=true&vCenter=true&random=false&repeat=false&width=435&height=80&lines=I'm+Milind+Palaria" alt="Typing SVG" /></a>
 <h1>Software Engineer at <a href="https://neuralixai.in" target="_blank">Neuralix.ai</a></h1>
     <!-- <br/> -->
+    <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Milind-Palaria&label=Profile%20views&color=0e75b6&style=flat" alt="milind-palaria" />
+</p>
+
     
+
 <div align="center"> 
 
     
@@ -15,6 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milind-palaria) 
 </br>
 ![](https://visitcount.itsvg.in/api?id=Milind-Palaria&icon=0&color=10)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Milind-Palaria&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
 <!--     
   <a href="mailto:palaria23@gmail.com">
@@ -129,7 +135,6 @@
     
 
     
-[![GitHub Streak](https://streak-stats.demolab.com?user=Milind-Palaria&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
   
  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Milind-Palaria/Milind-Palaria/output/github-contribution-grid-snake.svg" />-->
  <picture>
@@ -166,9 +171,7 @@
 <hr/>
   <br/><br/><br/>
 <img  align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-palaria&show_icons=true&locale=en&layout=donut-vertical&theme=dark&hide_border=true" alt="Milind-Palaria" />
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Milind-Palaria&label=Profile%20views&color=0e75b6&style=flat" alt="milind-palaria" />
-</p>
+
 <!--  
 <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=milind-palaria&show_icons=true&locale=en" alt="Milind-Palaria" />
     <br/>
