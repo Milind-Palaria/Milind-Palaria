@@ -162,13 +162,10 @@
 <hr/>
     <img src="assets/Statistics.gif" alt="2825944"  width="1250" height="50">
 <hr/>
-
+<!-- 
 ![Milind's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Milind-Palaria&theme=tokyo-night)
-<br>
+-->
 <div align=center>
-    
-
-<hr/>
   <br/><br/><br/>
 <img  align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-palaria&show_icons=true&locale=en&layout=donut-vertical&theme=dark&hide_border=true" alt="Milind-Palaria" />
 
